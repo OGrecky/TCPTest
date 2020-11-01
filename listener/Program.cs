@@ -3,6 +3,7 @@ using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using System.Drawing;
 
 class MyTcpListener
 {
@@ -56,6 +57,12 @@ class MyTcpListener
           {
               goto CLOSE;
           }
+        if (data == "A" || data == "A\r\n" || data == "A\n")
+        {
+            Point point = new Point();
+            point.X = 0;
+            point.Y = 0;
+        }
         //   client.Close();
 
           byte[] msg = System.Text.Encoding.ASCII.GetBytes(data);
