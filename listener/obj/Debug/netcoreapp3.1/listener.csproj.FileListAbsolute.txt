@@ -1,0 +1,13 @@
+/home/egor/Dev/tcpTraining/listener/bin/Debug/netcoreapp3.1/listener
+/home/egor/Dev/tcpTraining/listener/bin/Debug/netcoreapp3.1/listener.deps.json
+/home/egor/Dev/tcpTraining/listener/bin/Debug/netcoreapp3.1/listener.runtimeconfig.json
+/home/egor/Dev/tcpTraining/listener/bin/Debug/netcoreapp3.1/listener.runtimeconfig.dev.json
+/home/egor/Dev/tcpTraining/listener/bin/Debug/netcoreapp3.1/listener.dll
+/home/egor/Dev/tcpTraining/listener/bin/Debug/netcoreapp3.1/listener.pdb
+/home/egor/Dev/tcpTraining/listener/obj/Debug/netcoreapp3.1/listener.csprojAssemblyReference.cache
+/home/egor/Dev/tcpTraining/listener/obj/Debug/netcoreapp3.1/listener.AssemblyInfoInputs.cache
+/home/egor/Dev/tcpTraining/listener/obj/Debug/netcoreapp3.1/listener.AssemblyInfo.cs
+/home/egor/Dev/tcpTraining/listener/obj/Debug/netcoreapp3.1/listener.csproj.CoreCompileInputs.cache
+/home/egor/Dev/tcpTraining/listener/obj/Debug/netcoreapp3.1/listener.dll
+/home/egor/Dev/tcpTraining/listener/obj/Debug/netcoreapp3.1/listener.pdb
+/home/egor/Dev/tcpTraining/listener/obj/Debug/netcoreapp3.1/listener.genruntimeconfig.cache
